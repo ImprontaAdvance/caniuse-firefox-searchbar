@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"> 
+  <ShortName>CanIUse</ShortName> 
+  <Description>Search Web features on CanIUse.com</Description> 
+  <InputEncoding>UTF-8</InputEncoding> 
+  <LongName>Can I use...</LongName> 
+  <Image height="16" width="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAa1QTFRFyfSeybWR4tK2yfSdzdPF2/ysyraRzvKhyLSQyO6dyu2e/6Crze2i/66ozfKj0tXawq6K2tXfqJZ6zPKcx7ON3fqt3vqu/6amxLCM4rie/6Snz/igyrKF/eW/ybaQ1smc9K+ew/ugWmd336+WxI5N87Kh37SaaXJ83rGYm52a656W9reldJzXcaXSZ4Whv7eO2cOd38+g4Mqi38mh78Ko/qqs7raizMCp8p+Uxa2E/7au2fqs3vas1fye96ek78KnwbeNy++g3fyt3/mu/aSnpKOd9q+l/66r5eSh1Mma+8Otz+yj2/2s/7Gu49Kk07+Z2Pmq1L6W0byW7KKe5LaapJR7x/edSWqJeqXK+eO+8aWg27Sbyvih6KOi3sef/qqoqmxk2cObztKh0O6hzPWh/6Coy/Si2tjd/6etwK6N/LCq/7CtzPWexLCL/MOt3dKj0dfYxvKc/6CkOmWL49S38bmmaouszdTF2sygzvWkxbKQxpJU6Ni6/qarqWlo9Jmc3vywv62L6puezuih1Mib/6OsvuifzPGfeZzNy76n/5+i08iayPOe7eHMPTUngGNfKAAAAL1JREFUeNpi6EMDDH29KAAkwMQU6Rqup14tFNGRABaoKZHVLC5TUgnV1akDC1QZVEQ3xQZb1Ce1aYEFcgM9Q9yteGu5PWyzwAL+xi2S8aalfG5+lXZggaA4eTXxDDNFbcOeKLAAR2K3fbZUXoAjq5MzWIDRKF+jqFU1LC2FuRAswCagr9yVqhDTwM7ACVEh4WDi6+JlzeAjKgYWkBOR6eQXZBGWzmnnAgtkNlqaF6SXJ9t48zT3YvMcGgAIMAAlyWR+sDTUwgAAAABJRU5ErkJggg==</Image>
+  <Url type="text/html" method="get" template="http://caniuse.com/#feat={searchTerms}"/>  
+</OpenSearchDescription>
